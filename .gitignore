@@ -1,0 +1,36 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+
+# Unreal Engine
+*.log
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.obj
+*.dll
+*.exe
+*.exe.intermediate.manifest
+*.pdb
+*.idb
+*.mdb
+*.opendb
+*.opensdf
+*.sdf
+*.uasset
+*.umap
+*.uplugin
+*.ubulk
+*.uasset
+*.animset
+*.mesh
+*.material
+*.shader
+*.generated.*
+*.applocal
+*.zipped
